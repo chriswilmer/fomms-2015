@@ -13,6 +13,7 @@ This workshop is designed around the "low-hanging fruit" of best practices - sim
 ##Topic links
 
  * [File formats](/file_formats.md)
+ * [Making a GUI]
 
 ##TODO
  * [Style guides](/style_guides.md)
