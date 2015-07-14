@@ -3,6 +3,8 @@ Version control (Git) and remote collaboration (Github)
 
 From [Why should I use version control?](http://stackoverflow.com/questions/1408450/why-should-i-use-version-control):
 
+> Test change
+
 > Have you ever:
 
 > * Made a change to code, realised it was a mistake and wanted to revert back?
